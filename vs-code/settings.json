@@ -15,12 +15,15 @@
   "workbench.editor.enablePreviewFromQuickOpen": false,
   "workbench.editor.enablePreview": false,
   "[markdown]": {
-  
-},
-"javascript.updateImportsOnFileMove.enabled": "always",
-"prettier.singleQuote": true,
-"files.autoSave": "afterDelay",
-"[json]": {
-
-}
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "prettier.singleQuote": true,
+  "files.autoSave": "afterDelay",
+  "[json]": {
+  },
+  "workbench.iconTheme": "vscode-great-icons",
+  "emmet.includeLanguages": {
+      "javascript": "javascriptreact",
+      "vue-html": "html"
+  }
 }
